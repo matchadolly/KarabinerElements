@@ -1,0 +1,31 @@
+{
+    "description": "★ Remap right modifiers ★",
+    "manipulators": [
+        {
+            "from": {
+                "key_code": "right_command",
+                "modifiers": { "optional": ["any"] }
+            },
+            "to": [
+                {
+                    "key_code": "left_command",
+                    "modifiers": ["shift", "control", "option"]
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "right_option",
+                "modifiers": { "optional": ["any"] }
+            },
+            "to": [
+                {
+                    "key_code": "left_option",
+                    "modifiers": ["shift", "control"]
+                }
+            ],
+            "type": "basic"
+        }
+    ]
+}
