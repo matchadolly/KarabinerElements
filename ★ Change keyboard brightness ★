@@ -1,0 +1,21 @@
+{
+    "description": "★ Change keyboard brightness ★",
+    "manipulators": [
+        {
+            "from": {
+                "key_code": "f1",
+                "modifiers": { "mandatory": ["fn"] }
+            },
+            "to": [{ "key_code": "illumination_decrement" }],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "f2",
+                "modifiers": { "mandatory": ["fn"] }
+            },
+            "to": [{ "key_code": "illumination_increment" }],
+            "type": "basic"
+        }
+    ]
+}
