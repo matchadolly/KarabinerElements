@@ -1,5 +1,5 @@
 # KarabinerElements
-Various custom complex modifications for Karabiner-Elements.
+Various custom complex modifications for Karabiner Elements (they are actually called complex modifications, it's not me being pretentious).
 
 ## Modifications explained
 ### [★ Change keyboard brightness ★](https://github.com/matchadolly/KarabinerElements/blob/0cec137f3475fcec952a1bda7ef35708476f5a3e/%E2%98%85%20Change%20keyboard%20brightness%20%E2%98%85)
